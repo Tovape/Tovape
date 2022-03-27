@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript">
   <img src="https://img.shields.io/badge/-Jquery-0769AD.svg?logo=jquery">
   <img src="https://img.shields.io/badge/-Php-777BB4.svg?logo=php">
+  <img src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B">
 </p>
 
 
