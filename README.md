@@ -8,11 +8,11 @@
 </p>
 
 
-### Frontend && Backend Developer
-
-<!--
+### Dev
 
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tovape&show_icons=true&theme=radical)
+
+<!--
 
 ![Top languages](https://github-readme-stats.vercel.app/api?username=Tovape&count_private=true&show_icons=true&theme=radical)
 
