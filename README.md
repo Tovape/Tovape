@@ -7,9 +7,6 @@
   <img src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B">
 </p>
 
-
-### Dev
-
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tovape&show_icons=true&theme=radical)
 
 <!--
