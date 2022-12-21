@@ -10,11 +10,8 @@
 -->
 <div style="display:flex; flex-direction:row">
 
-  <div style="width:50%;">
-    ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tovape&show_icons=true&theme=slateorange)
-  </div>
-  <div style="width:50%;">
-    ![Top languages](https://github-readme-stats.vercel.app/api?username=Tovape&count_private=true&show_icons=true&theme=slateorange)
-  </div>
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tovape&show_icons=true&theme=slateorange)
+
+![Top languages](https://github-readme-stats.vercel.app/api?username=Tovape&count_private=true&show_icons=true&theme=slateorange)
 
 </div>
